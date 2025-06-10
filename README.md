@@ -1,6 +1,6 @@
-6]
-app.java
-public class App 
+
+
+//*public class App 
 {
     public static void main( String[] args )
     {
@@ -20,7 +20,7 @@ public class App
     
 }
 
-next code
+
 public class AppTest 
     extends TestCase
 {
@@ -40,5 +40,5 @@ public class AppTest
 }
 
 
-10]
-mvn archetype:generate -DgroupId=com.in.newp6 -DartifactId=newp6 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.in.newp6 -DartifactId=newp6 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false*//
